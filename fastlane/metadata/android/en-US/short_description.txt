@@ -1,0 +1,1 @@
+crack hashes by comparing them against a dictionary of words
